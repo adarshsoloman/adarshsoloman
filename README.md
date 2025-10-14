@@ -1,6 +1,6 @@
 ## 🙋🏻‍♂️ Introducing Myself
 
-![Black and Blue Minimalist GitHub Banner](https://github.com/adarshsoloman/assets/github_header.png)
+![Black and Blue Minimalist GitHub Banner](https://github.com/adarshsoloman/adarshsoloman/tree/main/assets/github_header.png)
 
 Hello, I'm Adarsh — an AI & ML student passionate about data-driven problem solving, automation, and intelligent systems.  
 I build efficient Langflows, data workflows, and generative AI tools that turn complex data into simple insights.
