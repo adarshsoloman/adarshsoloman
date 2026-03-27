@@ -1,33 +1,64 @@
-## 🙋🏻‍♂️ Introducing Myself
+# Hey, I'm Adarsh (Sunny) 👋🏻
 
-![Black and Blue Minimalist GitHub Banner](https://raw.githubusercontent.com/adarshsoloman/adarshsoloman/main/assets/github_header.png)
+> Applied ML Engineer building at the intersection of 
+> AI and creative tools.
 
-Hello, I'm Adarsh — an AI & ML student passionate about data-driven problem solving, automation, and intelligent systems.  
-I build efficient Langflows, data workflows, and generative AI tools that turn complex data into simple insights.
-
-- Querying and managing data using SQL and Python.  
-- Building AI automations with LangChain and n8n.  
-- Developing dashboards using Tableau and Looker Studio.  
-- Performing data cleaning, analysis, and visualization in Python and Excel.
+I come from a physics background and somehow ended up 
+shipping production ML systems and open source AI tools. 
+I build things that actually run — not just notebooks.
 
 ---
 
-### 📚 Projects
-Explore my work in my [AI & Data Projects Portfolio](https://github.com/adarshsoloman/Portfolio).
+## 🚀 What I'm Building
+
+### Cursor for Blender
+> AI-powered natural language assistant embedded inside Blender 3D
+- Type plain English → AI generates bpy code → executes instantly
+- Built with Python, Groq API, async threading
+- v1.0.0 shipped and open source
+- [github.com/adarshsoloman/cursor-for-blender](https://github.com/adarshsoloman/cursor-for-blender)
+
+### NICO AI — Multilingual NLP Translation System
+> Production ML system for low-resource language translation
+- LoRA fine-tuned NLLB-200 (600M parameters)
+- CTranslate2 + INT8 quantization → 40% latency reduction
+- FastAPI backend with streaming + LRU caching
+- Docker deployment
+- Evaluated with BLEU, chrF, METEOR, COMET
 
 ---
 
-### 🛠️ Tools
-
-- **Languages:** Python, SQL, JavaScript  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Visualization:** Tableau, Looker Studio, Power BI  
-- **AI / ML Tools:** LangChain, Ollama, TensorFlow, Scikit-learn  
-- **Automation:** n8n, Zapier  
+## 🛠️ Tech Stack
+```
+ML / AI:     PyTorch, HuggingFace, LoRA, CTranslate2
+Backend:     FastAPI, Docker, PostgreSQL
+APIs:        Groq, Anthropic, Gemini
+Languages:   Python (primary), Rust (learning)
+3D / Tools:  Blender, bpy API
+```
 
 ---
 
-### 👋🏻 Connect with Me
+## 📚 What I'm Learning
+```
+Currently:   FastAPI, PostgreSQL, Docker, System Design
+Next:        Rust (slowly but consistently)
+Long term:   Audio/Speech AI, Edge AI, MCP architecture
+```
 
-- [LinkedIn](https://www.linkedin.com/in/adarsh-soloman-banjare-148425224/)  
-- [GitHub](https://github.com/adarshsoloman)  
+---
+
+## 🧠 How I Think
+
+- Ship first, improve after
+- Consistency over intensity
+- Never fear approaching big fish
+- Always look for a way to monetize
+
+---
+
+## 👋🏻 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/adarsh-soloman-banjare-148425224/)
+- [GitHub](https://github.com/adarshsoloman)
+- 📍 Port Blair, Andaman & Nicobar Islands, India
