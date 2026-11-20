@@ -38,7 +38,7 @@ I build and study software around numerical algorithms, data-intensive systems, 
 - **[ML Model Debugger](https://github.com/adarshsoloman/ml-model-debugger)** — An iterative refinement loop for diagnosing and improving machine-learning models.
 - **[English–Hindi Semantic Validation](https://github.com/adarshsoloman/English-Hindi-Semantic-Validation-Pipeline)** — Validates translation pairs using back-translation and semantic similarity.
 - **[Edge Translation System](https://github.com/adarshsoloman/edge-translation-system)** — A modular, offline-first translation framework designed for resource-constrained environments.
-- **[VYASN](https://github.com/vyasn)** — Marine intelligence and IoT work involving sensor telemetry, time-series data, and seaweed-farming systems. *(Organization link.)*
+- **VYASN** — Marine intelligence and IoT work involving sensor telemetry, time-series data, and seaweed-farming systems.
 
 ## Engineering Projects & Tools
 
