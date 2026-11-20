@@ -1,69 +1,81 @@
-# Adarsh (Sunny)
+# Hi, I'm Sunny 👋
 
-Scientific computing, systems programming, and industrial data intelligence.
+📍 **Port Blair, Andaman & Nicobar** | ⚡ **Mojo · Fortran · Industrial ML** | 🌊 **CTO @ Vyasn**
 
-I build and study software around numerical algorithms, data-intensive systems, and applied machine learning. My current focus is on three connected areas:
+Self-taught applied ML engineer. I care about fast numerical code and about turning messy industrial/sensor data into something useful. Currently porting Python libraries to native Mojo, learning Fortran for systems-level work, and building ML for marine IoT.
 
-- **Mojo & open source:** porting Python libraries to native Mojo, with an emphasis on correctness, differential testing, and honest benchmarks.
-- **Scientific computing & systems:** learning FORTRAN and strengthening my foundations in numerical methods, compiled languages, and high-performance computing.
-- **Industrial data science:** working with time-series data, sensor systems, anomaly detection, and predictive maintenance.
-
----
+![Mojo](https://img.shields.io/badge/-Mojo-FF4C1F?style=flat-square&logoColor=white)
+![Fortran](https://img.shields.io/badge/-Fortran-734F96?style=flat-square&logo=fortran&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/-TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ## Start Here
 
-- **[PyroMojo](https://github.com/adarshsoloman/pyromojo)** — Native Mojo ports of Python libraries, verified against their reference implementations.
-- **[Mojo Stdlib Ports](https://github.com/adarshsoloman/mojo-py-ports)** — Differential-tested explorations of Python standard-library behaviour in Mojo.
-- **[Time-Series Foundation Model Lab](https://github.com/adarshsoloman/TSFM-projects)** — A progression through forecasting, anomaly detection, predictive maintenance, and time-series foundation models.
-- **[ISOMORPH](https://github.com/adarshsoloman/isomorph)** — A structural analogy engine that connects mathematical methods across scientific domains.
-- **[NICO AI Translator](https://github.com/adarshsoloman/nico-ai-offline-translator)** — An offline-first multilingual translation system.
+- 🔥 **[PyroMojo](https://github.com/adarshsoloman/pyromojo)** - Python libraries ported to native Mojo, with golden-vector tests and benchmarks
+- 🌊 **[Vyasn](https://vyasn.com)** - Marine IoT + AI anomaly detection for seaweed farming (I'm the CTO)
+- 🧊 **[Cursor for Blender](https://github.com/adarshsoloman/cursor-for-blender)** - Natural language → Blender Python, open source
+- 🧮 **[NuMojo](https://github.com/adarshsoloman/NuMojo)** - NumPy/SciPy for Mojo, where I contribute upstream
+- 🔬 **Fortran numerical kernels** - Solvers and kernels with timing comparisons (in progress)
 
-## Open Source & Mojo
+## Current Projects
 
-- **[PyroMojo](https://github.com/adarshsoloman/pyromojo)** — Native Mojo implementations of established Python libraries, with compatibility tests and benchmark methodology.
-- **[Mojo Stdlib Ports](https://github.com/adarshsoloman/mojo-py-ports)** — Porting Python standard-library modules to Mojo and checking behaviour against CPython.
-- **[NuMojo](https://github.com/adarshsoloman/NuMojo)** — Numerical computing experiments in Mojo.
+### Mojo & Systems
 
-## Scientific Computing & Systems
+- 🔥 **[PyroMojo](https://github.com/adarshsoloman/pyromojo)** - Native Mojo ports, benchmarked against pure Python and CPython C
+- 📨 **PyroMojo / MessagePack** - v0.1.0
+- 🔤 **PyroMojo / Levenshtein** - v0.1.0
+- 🧱 **PyroMojo / Bitarray** - v0.1.0
+- 🔊 **PyroMojo / Audioop** - v0.1.0, 26/26 CPython 3.12 audioop ops
+- 🧮 **[NuMojo](https://github.com/adarshsoloman/NuMojo)** - Contributing to the NumPy/SciPy port for Mojo
+- 🧪 **Fortran kernels** - Linear solvers, FFT, finite differences vs Python/Mojo (in progress)
 
-- **[ISOMORPH](https://github.com/adarshsoloman/isomorph)** — Finds structural relationships between problems and methods across scientific fields.
-- **[DweepLang](https://github.com/adarshsoloman/DweepLang)** — Offline-first English–Hindi translation and local language-model experimentation.
-- **[Extreme Low-Bit LLMs](https://github.com/adarshsoloman/extreme-low-bit-llm)** — Research exploration of 1-bit and ternary language-model quantization, including failure analysis.
-- **[BitNet to Quantum](https://github.com/adarshsoloman/bitnet-quantum-research)** — Investigating possible quantum-circuit representations of ternary neural-network weights.
-- **FORTRAN** — Currently learning the language and building foundations for scientific programming and HPC. Projects will be added here as they become public.
+### Industrial Data & ML
 
-## Industrial Data Science & Applied ML
+- 🌊 **[Vyasn Platform](https://vyasn.com)** - FastAPI + TimescaleDB + Next.js, ESP32 adapter, JWT auth, Docker, Azure
+- 🧠 **Solomon Engine** - Anomaly detection on sensor streams (IsolationForest + regression) with Telegram alerts
+- 📊 **[Vyasn Dashboard](https://dashboard.vyasn.com)** - Fleet overview, live telemetry, anomaly heatmap
+- 🏨 **Hotel Channel Manager** - AI-powered, team project: bookings, auth, phased roadmap to OTA integrations
+- 🧬 **[ISOMORPH](https://github.com/adarshsoloman/isomorph)** - Cross-domain analogy engine over 366 seeded scientific methods (pgvector)
 
-- **[Time-Series Foundation Model Lab](https://github.com/adarshsoloman/TSFM-projects)** — Ten-stage project track covering forecasting, evaluation, anomaly detection, predictive maintenance, and foundation-model engineering.
-- **[ML Model Debugger](https://github.com/adarshsoloman/ml-model-debugger)** — An iterative refinement loop for diagnosing and improving machine-learning models.
-- **[English–Hindi Semantic Validation](https://github.com/adarshsoloman/English-Hindi-Semantic-Validation-Pipeline)** — Validates translation pairs using back-translation and semantic similarity.
-- **[Edge Translation System](https://github.com/adarshsoloman/edge-translation-system)** — A modular, offline-first translation framework designed for resource-constrained environments.
-- **VYASN** — Marine intelligence and IoT work involving sensor telemetry, time-series data, and seaweed-farming systems.
+### Research
 
-## Engineering Projects & Tools
+- ⚛️ **[BitNet x Quantum](https://github.com/adarshsoloman/bitnet-quantum-research)** - Encoding ternary weights {-1, 0, 1} as quantum circuits for hybrid inference (early research)
 
-- **[Cursor for Blender](https://github.com/adarshsoloman/cursor-for-blender)** — A Blender add-on that turns natural-language instructions into executable `bpy` operations.
-- **[CADPilot](https://github.com/adarshsoloman/cadpilot)** — FreeCAD automation through an MCP server.
-- **[Agent Playground](https://github.com/adarshsoloman/agent_playground)** — Experiments with local agents, tool use, and retrieval-augmented generation.
-- **[Daily Shipyard](https://github.com/adarshsoloman/daily-shipyard)** — Small application-building experiments focused on rapid implementation and shipping.
-- **[Quantum Collective Projects](https://github.com/adarshsoloman/QCMP-adarsh)** — Contributions and experiments from monthly quantum-computing projects.
+### Dev Tools
 
-## Tools & Technologies
+- 🧊 **[Cursor for Blender](https://github.com/adarshsoloman/cursor-for-blender)** - NL → bpy via Groq, async execution, undo support
 
-- **Languages:** Python, Mojo, JavaScript / TypeScript; currently learning FORTRAN
-- **Scientific & data:** NumPy, Pandas, SciPy, scikit-learn, PyTorch
-- **ML & inference:** Hugging Face, Transformers, CTranslate2, quantization, time-series models
-- **Backend & data systems:** FastAPI, PostgreSQL, TimescaleDB, Docker
-- **Systems interests:** Numerical methods, performance engineering, memory efficiency, HPC
+### Web & Product Builds
 
-## Currently Working On
+- 🧭 **Learn Andaman** - Learning discovery directory for the islands (Next.js, FastAPI, Supabase)
+- 🛒 **Pados** - Billing, inventory and barcode tooling for local shops
+- 🚢 **ADDOON** - B2B export visibility layer for Andaman produce (early-stage)
+- 🎯 **LeadScout** - Lead discovery for freelancers and agencies
+- 🔌 **Insatiable** - Modular software marketplace (landing page)
 
-- Porting and validating Python libraries in Mojo through **PyroMojo**.
-- Learning FORTRAN for scientific and high-performance computing.
-- Building practical depth in industrial time-series analysis and predictive maintenance.
-- Developing projects that connect numerical computing with real-world engineering problems.
+### Creative
+
+- 🎬 **Programmatic video pipeline** - Diffusion assets + JSON rig + HTML/SVG renderer + FFmpeg
+- 🐦 **Five Friends** - Original animal-character comic universe
+
+## GitHub Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=adarshsoloman&hide_border=true&theme=minimal)
+
+## What I'm Doing
+
+- **Porting Python to Mojo** - Correctness first (golden vectors), speed second
+- **Learning Fortran** - For numerical and systems-level engineering
+- **Moving toward Data Engineering** - Backend, pipelines, time-series
+- **Teaching** - Physics, Chemistry and Math, and studying for an MSc in Mathematics
 
 ## Connect
 
-- [GitHub](https://github.com/adarshsoloman)
-- [LinkedIn](https://www.linkedin.com/in/adarsh-soloman-banjare-148425224/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-soloman-banjare-148425224/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adarshsoloman)
+
+> "Correct first, then fast."
